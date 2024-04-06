@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	width: 100%; height: 50px; line-height: 50px
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+body a{
+	text-decoration: none
+}
+footer{
+	width: 100%; min-height: 300px
+}
+.gach-chan{
+	border-bottom: 2px solid  #FFC113
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color:  #FFC113
+}
+.gach-chan-lon{
+	border-top: 15px solid #C8C8C8
+}
+#than-bai a:hover{
+	color: #FFC113
+}
+#contact{
+	max-width: 100%; min-height: 300px; background-image: url("../images/why.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center
+}
+
+#tin-tuc .navbar-nav .nav-item .nav-link:hover{
+	color:#FFC113
+}
+#footer{
+	width: 100%; height: 50px; background-color: #FFC113; line-height: 50px
+}
+#cam-nhan .noi-dung img{
+	width: 80px; height: 80px
+}
+#cam-nhan .noi-dung{
+	display: flex; justify-content: center; align-items: center; flex-direction: column; 
+}
+.text-nho{
+	font-size: 12px
+}
+.kc-ngan{
+	margin-bottom: -10px
+}
+#icon-footer a{
+	color: white; text-decoration: none
+}
+#icon-footer a:hover{
+	color:  #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px; 
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #086DB5; 
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color:  #086DB5; padding-top: 0; border-radius: 0;
+	
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li a:hover{
+	background-color: #FFC113;
+}
+html{
+	scroll-behavior: smooth
+}
+#about button:hover{
+	background-color: #FFC113; border: none
+}
+#banner2{
+	max-width: 100%; min-height: 200px; background-image: url("../images/pageheader.png"); background-repeat: no-repeat; background-size: cover; background-position: center
+}
+#banner2 button:hover{
+	background-color: #FFC113; border: none
+}
+#lien-he button:hover{
+	background-color:  #086DB5; border: none
+}
+#hinhanh-kh2 button:hover{
+	background-color:  #086DB5; border: none
+}
+#img-bs img{
+	width: 130px; height: 130px
+}
+#hinhanh-kh2 .col-lg-6 .img-cha{
+	position: relative
+}
+#hinhanh-kh2 .col-lg-6 .before-after{
+	position: absolute;
+	top: 0; width: 100%
+}
+#hinhanh-kh2 .col-lg-6 .ss{
+	 background-color: #B7B7B7; text-align: center;
+}
+#nhap-thong-tin button:hover{
+	background-color: #FFC113; border: none
+}
+.map{
+	width: 100%; min-height: 100px
+}
+.search-box_btn{
+	width: 45px; border: none
+}
+#gui button:hover{
+		background-color: #FFC113; border: none
+}
